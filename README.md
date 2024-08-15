@@ -4,3 +4,4 @@ Welcome, in this here project I will be creating a landing page using The Odin P
 
 ## Credits
 Hero image from [Neven Krcmarek](https://unsplash.com/@nevenkrcmarek)
+Information image from [Shapelined](https://unsplash.com/@shapelined)
