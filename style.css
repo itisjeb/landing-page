@@ -153,9 +153,10 @@ button:hover {
     padding: 30px 120px 30px 120px;
     border-radius: 8px;
     color: #E5E7EB;
-    width: 600px;
+    width: 700px;
     display: flex;
-    gap: 70px;
+    justify-content: space-between;
+    gap: 90px;
 }
 
 .cta-body {
@@ -175,4 +176,12 @@ button:hover {
     display: flex;
     align-self: flex-end;
     min-width: 95px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
 }
