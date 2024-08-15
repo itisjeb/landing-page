@@ -141,3 +141,38 @@ button:hover {
     font-weight: bold;
     font-size: 20px;
 }
+
+.cta {
+    padding: 70px 20px 70px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.cta-container {
+    background-color: #3882f6;
+    padding: 30px 120px 30px 120px;
+    border-radius: 8px;
+    color: #E5E7EB;
+    width: 600px;
+    display: flex;
+    gap: 70px;
+}
+
+.cta-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.cta-header {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.cta-button {
+    border: solid 1px #F9FAF8;
+    text-align: center;
+    display: flex;
+    align-self: flex-end;
+    min-width: 95px;
+}
